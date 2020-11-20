@@ -4,6 +4,19 @@
 
 ## Getting Started
 
+pubspec.yaml中引入依赖：
+
+```
+dependencies:
+  flutter_dlna: <最新版本>
+```
+
+最新版本查看地址：
+
+```
+https://pub.dev/packages/flutter_dlna/install
+```
+
 创建管理器
 
 ```
